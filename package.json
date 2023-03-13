@@ -1,0 +1,25 @@
+{
+  "name": "social-goose",
+  "version": "1.0.0",
+  "description": "NoSQL Challenge: Social Network API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "mongod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laps22/Social-Goose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laps22/Social-Goose/issues"
+  },
+  "homepage": "https://github.com/laps22/Social-Goose#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  }
+}
