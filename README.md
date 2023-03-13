@@ -27,6 +27,11 @@
   ## License
 
   This application is covered under the MIT license.
+
+  ## Links
+
+  [GitHub](https://github.com/laps22/Social-Goose)
+  [Insomnia Demo]()
   
 
   ## Contributing
